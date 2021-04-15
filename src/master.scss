@@ -1,0 +1,12 @@
+$primary: blue;
+$secondary: white;
+
+h1{
+    color: $primary;
+}
+
+button{
+    background-color: $primary;
+    color: $secondary;
+    padding:10px 20px;
+}
